@@ -57,9 +57,3 @@ This project utilizes PCA to build a simple facial recognition system. It uses i
 *   Testing data: `test` directory
 *   Each person has a folder named after them containing their images.
 
-**Usage:**
-
-**Train the Model** (using images in `train` directory):
-
-```bash
-python recongntionFacial.py --train
